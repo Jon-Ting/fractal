@@ -1,0 +1,7 @@
+/mnt/c/Users/ASUS/Documents/PhD/Workstation/PaperDrafts/NP_Frac_Dim/DOCS/fractal/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ASUS/Documents/PhD/Workstation/PaperDrafts/NP_Frac_Dim/DOCS/fractal/build/CMakeFiles/ascii2pcd.dir
+/mnt/c/Users/ASUS/Documents/PhD/Workstation/PaperDrafts/NP_Frac_Dim/DOCS/fractal/build/CMakeFiles/visualize.dir
+/mnt/c/Users/ASUS/Documents/PhD/Workstation/PaperDrafts/NP_Frac_Dim/DOCS/fractal/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ASUS/Documents/PhD/Workstation/PaperDrafts/NP_Frac_Dim/DOCS/fractal/build/CMakeFiles/fractal3d.dir
+/mnt/c/Users/ASUS/Documents/PhD/Workstation/PaperDrafts/NP_Frac_Dim/DOCS/fractal/build/CMakeFiles/fractal2d.dir
+/mnt/c/Users/ASUS/Documents/PhD/Workstation/PaperDrafts/NP_Frac_Dim/DOCS/fractal/build/CMakeFiles/fractal_lib.dir

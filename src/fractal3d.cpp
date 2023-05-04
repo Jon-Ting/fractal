@@ -108,15 +108,18 @@ int main (int argc, char** argv)
 
 	float x_min = x_cloud.minCoeff();
 	float x_max = x_cloud.maxCoeff();
-	int Nx = 1024; 
+	// int Nx = 1024; 
+	int Nx = 256; 
 
 	float y_min = y_cloud.minCoeff();
 	float y_max = y_cloud.maxCoeff();
-	int Ny = 1024; 
+	// int Ny = 1024; 
+	int Ny = 256; 
 
 	float z_min = z_cloud.minCoeff();
 	float z_max = z_cloud.maxCoeff();
-	int Nz = 1024; 
+	// int Nz = 1024; 
+	int Nz = 256; 
 
 	VectorXf x_grid = VectorXf::LinSpaced(Nx, x_min, x_max);
 	VectorXf y_grid = VectorXf::LinSpaced(Ny, y_min, y_max);

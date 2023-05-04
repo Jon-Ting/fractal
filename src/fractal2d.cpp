@@ -51,7 +51,8 @@ int main(int argc, char** argv)
 	string fullpath = "../images/"+img_name; 
 
 	// Read input image into grayscale 
-	Mat img = imread(fullpath.c_str(), CV_LOAD_IMAGE_GRAYSCALE); 
+	//Mat img = imread(fullpath.c_str(), CV_LOAD_IMAGE_GRAYSCALE); 
+	Mat img = imread(fullpath.c_str(), IMREAD_GRAYSCALE); 
 	if (img.empty())
 	{
 		cout << "Error reading image." << endl; 
